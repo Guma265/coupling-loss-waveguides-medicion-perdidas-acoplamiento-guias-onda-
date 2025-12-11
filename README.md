@@ -10,7 +10,7 @@ El proyecto implementa un sistema óptico y computacional para caracterizar perf
 
 ---
 
-## 🔬 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Desarrollar un método preciso y reproducible para medir pérdidas de acoplamiento entre:
 
@@ -30,7 +30,7 @@ El método se basa en:
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 coupling-loss-waveguides/
 │
@@ -48,9 +48,9 @@ coupling-loss-waveguides/
 
 ---
 
-## 🧠 Descripción de los scripts
+##  Descripción de los scripts
 
-### 📌 `ancho_del_pulso_EX.py`
+### `ancho_del_pulso_EX.py`
 Script que procesa los datos del analizador de haz:
 
 - Lee archivos `.txt` generados por el equipo  
@@ -63,7 +63,7 @@ Incluye una interfaz gráfica mediante Tkinter para seleccionar archivos.
 
 ---
 
-### 📌 `coeficiente_de_acoplamiento_EX.py`
+###  `coeficiente_de_acoplamiento_EX.py`
 Script que implementa las ecuaciones para:
 
 - Calcular el coeficiente de acoplamiento `η`  
@@ -77,7 +77,7 @@ El script solicita los valores geométricos obtenidos del código anterior (a, b
 
 ---
 
-## 🧪 Instalación de dependencias
+##  Instalación de dependencias
 
 Ejecutar:
 
